@@ -1,12 +1,29 @@
+## Hey there!
+
+👋 I'm Samuel, a software development student.
+
+📚 Studying at Tredu vocational college to become a software developer
+
+🌱 Currently learning modern web-development technologies.
+
+Get in touch at [samuelnummela06@gmail.com](mailto:samuelnummela06@gmail.com)
+
+### Skills
 <div align="center">
   <div style="display: inline_block">
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />  
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/> 
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" />
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" />
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" />  
   </div>
 </div>
 
