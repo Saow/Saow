@@ -23,7 +23,8 @@ Get in touch at [samuelnummela06@gmail.com](mailto:samuelnummela06@gmail.com)
     <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" />
     <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
     <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" />
-    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" />  
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" /> 
+    <img align="center" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" />  
   </div>
 </div>
 
