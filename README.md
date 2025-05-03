@@ -1,10 +1,10 @@
 ## Hey there!
 
-👋 I'm Samuel, a software development student.
+👋 I'm Samuel, a software development student
 
 📚 Studying at Tredu vocational college to become a software developer
 
-🌱 Currently learning modern web-development technologies.
+🌱 Currently learning Embedded systems
 
 Get in touch at [samuelnummela06@gmail.com](mailto:samuelnummela06@gmail.com)
 
