@@ -1,8 +1,6 @@
 ## Hey there!
 
-👋 I'm Samuel, a software development student
-
-📚 Software Developer
+👋 I'm Samuel, a Software Developer 
 
 🌱 Currently learning Embedded systems
 
