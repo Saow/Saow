@@ -2,7 +2,7 @@
 
 👋 I'm Samuel, a software development student
 
-📚 Studying at Tredu vocational college to become a software developer
+📚 Software Developer
 
 🌱 Currently learning Embedded systems
 
